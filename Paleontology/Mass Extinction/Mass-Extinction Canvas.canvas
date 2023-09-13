@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"afce2c5a37b08ce0","type":"file","file":"Mass Extinction/Mass Extinction.md","x":-420,"y":-800,"width":400,"height":400},
+		{"id":"d6239e563ac2c33d","type":"file","file":"Mass Extinction/6th Mass Extinction.md","x":-20,"y":-160,"width":400,"height":400},
+		{"id":"79c5a93c34b7167b","type":"file","file":"Mass Extinction/Background extinction.md","x":340,"y":-800,"width":400,"height":400},
+		{"id":"71884a0a5d45612e","type":"file","file":"Mass Extinction/Big Five.md","x":-820,"y":-160,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e9cb4c640a5a42a1","fromNode":"afce2c5a37b08ce0","fromSide":"bottom","toNode":"71884a0a5d45612e","toSide":"top"},
+		{"id":"7ba01c3d20ddce8d","fromNode":"afce2c5a37b08ce0","fromSide":"bottom","toNode":"d6239e563ac2c33d","toSide":"top"},
+		{"id":"e078c2839898d4c7","fromNode":"afce2c5a37b08ce0","fromSide":"right","toNode":"79c5a93c34b7167b","toSide":"left"}
+	]
+}

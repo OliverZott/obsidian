@@ -1,0 +1,3 @@
+- different from other mas extinctions
+- 100-1000 times higher extinction rate than [[Background extinction]]
+- 
