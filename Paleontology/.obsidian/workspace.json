@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "16ae03c3837529e4",
+            "id": "7931ba07b57860eb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -45,33 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d8a07ca0af61672c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mass Extinction/Big Five.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7931ba07b57860eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mass Extinction/6th Mass Extinction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mass Extinction/6th Mass Extinction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mass Extinction/6th Mass Extinction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mass Extinction/6th Mass Extinction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,10 +183,10 @@
   "active": "7931ba07b57860eb",
   "lastOpenFiles": [
     "Mass Extinction/Mass-Extinction Canvas.canvas",
-    "Mass Extinction/Big Five.md",
     "Mass Extinction/Background extinction.md",
-    "Mass Extinction/Mass Extinction.md",
     "Mass Extinction/6th Mass Extinction.md",
+    "Mass Extinction/Big Five.md",
+    "Mass Extinction/Mass Extinction.md",
     "Untitled.canvas",
     "Mass Extinction"
   ]
