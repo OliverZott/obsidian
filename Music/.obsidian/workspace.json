@@ -1,37 +1,22 @@
 {
   "main": {
-    "id": "52309e63718b5bd7",
+    "id": "a7e9bb6ff4a50cc1",
     "type": "split",
     "children": [
       {
-        "id": "9b2b3f59172c398c",
+        "id": "d3c09a7896b2a4c5",
         "type": "tabs",
         "children": [
           {
-            "id": "67b84f48225d0c59",
+            "id": "31023c48bf57cf9a",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mass Extinction/Mass-Extinction Canvas.canvas",
-                "viewState": {
-                  "x": -92.37446993227886,
-                  "y": -157.19651056375403,
-                  "zoom": -0.46447431398583294
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7931ba07b57860eb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+                "file": "Gear/Bass.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -40,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fed98338a7cbeb07",
+    "id": "b0f2aab556f637b5",
     "type": "split",
     "children": [
       {
-        "id": "b1cc1b37ddee0920",
+        "id": "a7fdf0e3c47cfa05",
         "type": "tabs",
         "children": [
           {
-            "id": "3e20e9ac7416dab0",
+            "id": "6a755e8e90d0946f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +43,7 @@
             }
           },
           {
-            "id": "32593759ce75c76d",
+            "id": "7964b390c6fe11ff",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +58,7 @@
             }
           },
           {
-            "id": "782fe3683655b9a9",
+            "id": "800e4f6a88f30301",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "22fc8d7878b3e9cf",
+    "id": "5b3747ff35071326",
     "type": "split",
     "children": [
       {
-        "id": "a0531ae69f9e3693",
+        "id": "89f3b2d8f87b968e",
         "type": "tabs",
         "children": [
           {
-            "id": "ba966492b6142790",
+            "id": "4f86fedd671b321e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mass Extinction/Mass-Extinction Canvas.canvas",
+                "file": "Gear/Bass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +97,19 @@
             }
           },
           {
-            "id": "1cf829bcab89a131",
+            "id": "fa6fa3d9462a3df4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mass Extinction/Mass-Extinction Canvas.canvas",
+                "file": "Gear/Bass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ddb664e7b7be3c69",
+            "id": "fffe0ca0225555e6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,22 +120,12 @@
             }
           },
           {
-            "id": "4ba5e3eaffe85b03",
+            "id": "37b3a59779d318b7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mass Extinction/Mass-Extinction Canvas.canvas"
-              }
-            }
-          },
-          {
-            "id": "8db2e6b0f454b49a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
+                "file": "Gear/Bass.md"
               }
             }
           }
@@ -171,14 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67b84f48225d0c59",
+  "active": "31023c48bf57cf9a",
   "lastOpenFiles": [
-    "Mass Extinction/Background extinction.md",
-    "Mass Extinction/Mass-Extinction Canvas.canvas",
-    "Mass Extinction/6th Mass Extinction.md",
-    "Mass Extinction/Big Five.md",
-    "Mass Extinction/Mass Extinction.md",
-    "Untitled.canvas",
-    "Mass Extinction"
+    "Bass Studies/Random Licks Repertoire.md",
+    "Music Repertoire/Blues.md",
+    "Music Repertoire/Jazz.md",
+    "Music Repertoire/Rock.md",
+    "Guitar Studies/Blues Guitar.md",
+    "Gear/Bass.md",
+    "Gear",
+    "Music Repertoir/Untitled.md",
+    "Music Repertoire",
+    "Guitar Studies",
+    "Bass Studies"
   ]
 }

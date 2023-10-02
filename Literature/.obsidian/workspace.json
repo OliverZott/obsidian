@@ -1,37 +1,22 @@
 {
   "main": {
-    "id": "52309e63718b5bd7",
+    "id": "c79d2a9c0fb2ff19",
     "type": "split",
     "children": [
       {
-        "id": "9b2b3f59172c398c",
+        "id": "1a8f50bfe7dbbcc1",
         "type": "tabs",
         "children": [
           {
-            "id": "67b84f48225d0c59",
+            "id": "e5901175ac81edbe",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mass Extinction/Mass-Extinction Canvas.canvas",
-                "viewState": {
-                  "x": -92.37446993227886,
-                  "y": -157.19651056375403,
-                  "zoom": -0.46447431398583294
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7931ba07b57860eb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+                "file": "List.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -40,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fed98338a7cbeb07",
+    "id": "f88512d7cf6a1795",
     "type": "split",
     "children": [
       {
-        "id": "b1cc1b37ddee0920",
+        "id": "ff25992557ff221b",
         "type": "tabs",
         "children": [
           {
-            "id": "3e20e9ac7416dab0",
+            "id": "6065b7ba96b61898",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +43,7 @@
             }
           },
           {
-            "id": "32593759ce75c76d",
+            "id": "7d0aff1db420acfb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +58,7 @@
             }
           },
           {
-            "id": "782fe3683655b9a9",
+            "id": "2dea21354d57a571",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "22fc8d7878b3e9cf",
+    "id": "434b3385cddecb06",
     "type": "split",
     "children": [
       {
-        "id": "a0531ae69f9e3693",
+        "id": "a1610ee58c8d5fe9",
         "type": "tabs",
         "children": [
           {
-            "id": "ba966492b6142790",
+            "id": "f32331d26263a2ad",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mass Extinction/Mass-Extinction Canvas.canvas",
+                "file": "List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +97,19 @@
             }
           },
           {
-            "id": "1cf829bcab89a131",
+            "id": "a0e436a733f7dc5f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mass Extinction/Mass-Extinction Canvas.canvas",
+                "file": "List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ddb664e7b7be3c69",
+            "id": "f21d0e31cde1235f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,22 +120,12 @@
             }
           },
           {
-            "id": "4ba5e3eaffe85b03",
+            "id": "9c64888296453ddf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mass Extinction/Mass-Extinction Canvas.canvas"
-              }
-            }
-          },
-          {
-            "id": "8db2e6b0f454b49a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
+                "file": "List.md"
               }
             }
           }
@@ -171,14 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67b84f48225d0c59",
+  "active": "e5901175ac81edbe",
   "lastOpenFiles": [
-    "Mass Extinction/Background extinction.md",
-    "Mass Extinction/Mass-Extinction Canvas.canvas",
-    "Mass Extinction/6th Mass Extinction.md",
-    "Mass Extinction/Big Five.md",
-    "Mass Extinction/Mass Extinction.md",
-    "Untitled.canvas",
-    "Mass Extinction"
+    "List.md"
   ]
 }
