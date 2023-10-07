@@ -1,0 +1,3 @@
+- https://hst-docs.stsci.edu/acsdhb/chapter-2-acs-data-structure/2-1-types-of-acs-files
+- https://www.stsci.edu/instruments/wfpc2/Wfpc2_dhb/intro_ch23.html
+- https://learn.astropy.org/tutorials/FITS-images.html
