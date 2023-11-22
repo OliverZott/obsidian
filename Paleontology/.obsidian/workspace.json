@@ -33,8 +33,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "c2e30a52fff16547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Various/Docu - Prehistoric Planet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mass Extinction/Mass-Extinction Canvas.canvas",
+                "file": "Various/Docu - Prehistoric Planet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mass Extinction/Mass-Extinction Canvas.canvas",
+                "file": "Various/Docu - Prehistoric Planet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mass Extinction/Mass-Extinction Canvas.canvas"
+                "file": "Various/Docu - Prehistoric Planet.md"
               }
             }
           },
@@ -171,13 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67b84f48225d0c59",
+  "active": "c2e30a52fff16547",
   "lastOpenFiles": [
-    "Mass Extinction/Background extinction.md",
-    "Mass Extinction/Mass-Extinction Canvas.canvas",
-    "Mass Extinction/6th Mass Extinction.md",
     "Mass Extinction/Big Five.md",
+    "Various/Docu - Prehistoric Planet.md",
+    "Various",
     "Mass Extinction/Mass Extinction.md",
+    "Mass Extinction/Mass-Extinction Canvas.canvas",
+    "Mass Extinction/Background extinction.md",
+    "Mass Extinction/6th Mass Extinction.md",
     "Untitled.canvas",
     "Mass Extinction"
   ]

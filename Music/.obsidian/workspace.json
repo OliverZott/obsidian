@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear/Bass.md",
-                "mode": "preview",
+                "file": "Bass Studies/Famous Bassists.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gear/Bass.md",
+                "file": "Bass Studies/Famous Bassists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gear/Bass.md",
+                "file": "Bass Studies/Famous Bassists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gear/Bass.md"
+                "file": "Bass Studies/Famous Bassists.md"
               }
             }
           }
@@ -148,12 +148,17 @@
   },
   "active": "31023c48bf57cf9a",
   "lastOpenFiles": [
+    "Gear/Service.md",
+    "Gear/Basses.md",
+    "Gear/Sound & Tone.md",
+    "Bass Studies/Repertoire.md",
+    "Bass Studies/Lessons.md",
+    "Bass Studies/Famous Bassists.md",
     "Bass Studies/Random Licks Repertoire.md",
+    "Guitar Studies/Blues Guitar.md",
     "Music Repertoire/Blues.md",
     "Music Repertoire/Jazz.md",
     "Music Repertoire/Rock.md",
-    "Guitar Studies/Blues Guitar.md",
-    "Gear/Bass.md",
     "Gear",
     "Music Repertoir/Untitled.md",
     "Music Repertoire",

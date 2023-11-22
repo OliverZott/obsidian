@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "482bc4d05de235ea",
+    "id": "35bfb560520f26c9",
     "type": "split",
     "children": [
       {
-        "id": "8384c8ace4f4c46b",
+        "id": "72cd1c290a134041",
         "type": "tabs",
         "children": [
           {
-            "id": "bcd63ac9ed820609",
+            "id": "5b8f3ac7c573684c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mountainbike/Recovery & Preparation 2023-2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d3f15159471285cf",
+    "id": "6fe3bcafa97013a0",
     "type": "split",
     "children": [
       {
-        "id": "f1aa8eceb75a22e4",
+        "id": "1a675035c6575e9c",
         "type": "tabs",
         "children": [
           {
-            "id": "88c18c511ffb61a0",
+            "id": "3261b1fca53be8cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "af2ab0af49bea8f0",
+            "id": "56e726ab86e5466d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "8cc8405c443510d2",
+            "id": "dc925065a7508c5a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "e07bcb8639a7ba5f",
+    "id": "3f728d729138620d",
     "type": "split",
     "children": [
       {
-        "id": "58c49f2dc3141c5f",
+        "id": "4413c049f8101503",
         "type": "tabs",
         "children": [
           {
-            "id": "2f1f31d2066eca9f",
+            "id": "b40e6bc455177ddf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mountainbike/Recovery & Preparation 2023-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "6e7328992a671fce",
+            "id": "7b7e67f39bb05a4c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mountainbike/Recovery & Preparation 2023-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "44efa346dc302347",
+            "id": "8fd085f57934e143",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "2f6c68920ad2ccb1",
+            "id": "ee5b36f8591331cc",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mountainbike/Recovery & Preparation 2023-2024.md"
+              }
             }
           }
         ]
@@ -138,20 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcd63ac9ed820609",
+  "active": "5b8f3ac7c573684c",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled.md",
-    "Links.md",
-    "Spectroscopy/FITS image format.md",
-    "Cosmology/Friedmann Equations.md",
-    "Cosmology",
-    "Spectroscopy/UV continuum spectral break.md",
-    "Spectroscopy/Ly alpha line.md",
-    "Basic Mechanics/Derived Formulas.md",
-    "Basic Mechanics/Kepler's Laws.md",
-    "Basic Mechanics/Newton Mechanics.md",
-    "Spectroscopy",
-    "Basic Mechanics"
+    "Mountainbike/Recovery & Preparation 2023-2024.md",
+    "Untitled",
+    "Mountainbike"
   ]
 }
