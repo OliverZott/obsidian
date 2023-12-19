@@ -11,8 +11,12 @@
             "id": "e749620b04967078",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Basics/Electrical elements.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basics/Electrical elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Basics/Electrical elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Basics/Electrical elements.md"
+              }
             }
           }
         ]
@@ -140,6 +148,11 @@
   },
   "active": "e749620b04967078",
   "lastOpenFiles": [
+    "Basics/Volt & Ampere.md",
+    "Basics/Electrical elements.md",
+    "Basics/Energy, Power, ....md",
+    "Arduino/Nano.md",
+    "Arduino",
     "Basics"
   ]
 }

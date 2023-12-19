@@ -2,4 +2,5 @@
 - Keb Mo
 - Eric Clapton
 - BB King
-- 
+- Robert Johnson
+- Kingfish
